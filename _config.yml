@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Yuyi Bei"
 title_separator          : "-"
-name                     : &name "Xiaojing Yu"
+name                     : &name "Yuyi Bei"
 description              : &description "Postdoctoral Associate in Computer Science, Yale University"
-url                      : https://blairjing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "blairjing/blairjing.github.io"
+repository               : "YuyiBei/yuyi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaojing Yu"
+  name             : "Yuyi Bei"
   avatar           : "website-v2.png"
-  bio              : "Postdoctoral Associate in Computer Science, Yale University"
+  bio              : "MPH, Yale University"
   location         : "New Haven, CT"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=zm79k4wAAAAJ&hl=en"
-  email            : "xiaojing.yu@yale.edu"
+  googlescholar    : 
+  email            : "yuyi.bei@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "blairjing"
+  github           : "YuyiBei"
   google_plus      :
   keybase          :
   instagram        :
