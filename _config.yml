@@ -11,9 +11,9 @@ title                    : "Yuyi Bei"
 title_separator          : "-"
 name                     : &name "Yuyi Bei"
 description              : &description " Yale University"
-url                      : https://yuyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuyibei.github.io/yuyi # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YuyiBei/yuyi.github.io"
+repository               : "YuyiBei/yuyi"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
