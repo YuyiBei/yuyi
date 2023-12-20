@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaojing Yu"
+  name             : "Yuyi Bei"
   avatar           : "website.png"
   bio              : "Postdoctoral Associate in Computer Science, Yale University"
   location         : "New Haven, CT"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zm79k4wAAAAJ&hl=en"
-  email            : "xiaojing.yu@yale.edu"
+  email            : "yuyi.bei@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "blairjing"
+  github           : "YuyiBei"
   google_plus      :
   keybase          :
   instagram        :
