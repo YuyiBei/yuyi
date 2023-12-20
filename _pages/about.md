@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Yuyi Bei. 
+Hi! I'm Yuyi Bei. I am from Hangzhou, China. My MBTI is ENFJ.
 
 Recent News
 ------
-* Aug. 2023: Yale! I am coming!
+* Aug. 2023: Arrived at Yale. 
+* Once a buckeye, forever a buckeye!
+* Dec. 2022: Got my BS at OSU. 
 
