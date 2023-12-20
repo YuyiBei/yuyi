@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuyi Bei"
 title_separator          : "-"
 name                     : &name "Yuyi Bei"
-description              : &description "Postdoctoral Associate in Computer Science, Yale University"
+description              : &description " Yale University"
 url                      : https://yuyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuyiBei/yuyi.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuyi Bei"
+  name             : "Xiaojing Yu"
   avatar           : "website-v2.png"
-  bio              : "MPH, Yale University"
+  bio              : "Postdoctoral Associate in Computer Science, Yale University"
   location         : "New Haven, CT"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : 
-  email            : "yuyi.bei@yale.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=zm79k4wAAAAJ&hl=en"
+  email            : "xiaojing.yu@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YuyiBei"
+  github           : "blairjing"
   google_plus      :
   keybase          :
   instagram        :
