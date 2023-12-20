@@ -12,9 +12,9 @@ redirect_from:
 Education
 ------
 * **M.A.R. in Religion and Ecology, M.P.H. in Chronic Disease Epidemiology, 2023-2026**
-  : Yale University
+  : Yale University, New Haven, CT
 * **B.S. in Health Science, Minor in Assistive and Rehabilitative Technology Certificate, 2019-2022**
-  : Ohio State University, Columbus, Ohio
+  : Ohio State University, Columbus, OH
 
 Work Experience
 ------
