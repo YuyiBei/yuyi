@@ -11,7 +11,7 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Education
 ------
-* **M.A.R. in Religion and Ecology, M.P.H. in Chronic Disease Epidemiology, 2023-2026**
+* **M.A.R. in Religion and Ecology, M.P.H. in Chronic Disease Epidemiology, 2023-Present**
   : Yale University, New Haven, CT
 * **B.S. in Health Science, Minor in Assistive and Rehabilitative Technology Certificate, 2019-2022**
   : Ohio State University, Columbus, OH
@@ -22,9 +22,6 @@ redirect_from:
   : Yale University
   * Collaborate with the Associate Director of Assistive Technology and fellow graduate assistants to ensure educational material accessibility
   * Lead undergraduate assistants in remediation work
-  
-&nbsp;&nbsp;&nbsp;&nbsp;Public Health Experience
-------
 * **Mar. 2022 - May. 2023: Research Assistant in Nutritional Epidemiology**
   : School of Public Health at Zhejiang University, Hangzhou, China
   * Assist post-doc fellow on projects related to diabetes and inflammatory index.
