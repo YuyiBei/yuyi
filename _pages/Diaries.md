@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Diaries"
-permalink: /Diaries/
+permalink: /Diaries./
 author_profile: true
 ---
 # Diaries
