@@ -26,13 +26,13 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;Volunteer Experience
 ------
-* **Nov. 2022 - May. 2023**
+* **Nov. 2022 - May. 2023: Volunteer**
   : Maili, Hangzhou, China
   * Led behavioral activities and taught skillsets for young children with autism
 * **Sep. 2019 - Oct. 2019: Student Volunteer**
   : James Cancer Hospital, OSU Wexner Medical Center, Columbus, OH
   * Shadowed lead oncologist of radiation therapy group
-* **June. 2018 - July. 2022 (seasonal)**
+* **June. 2018 - July. 2022 (seasonal): Social Work Volunteer**
   : Chunlinghui Nursing Home, Hangzhou, China
   * Provided companionship and comfort to senior citizens
   * Read newspapers to residents with physical or mental impairments
